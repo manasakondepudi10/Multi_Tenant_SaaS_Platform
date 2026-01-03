@@ -60,14 +60,13 @@ No manual database commands are required.
 
 ---
 
-## Access Services
-Component	      Endpoint
+##  Access the Application
 
----
-
-Frontend UI	     `http://localhost:3000`
-Backend API	     `http://localhost:5000`
-Health Check	  `GET /api/health`
+| Service      | URL                                                                  |
+| ------------ | -------------------------------------------------------------------- |
+| Frontend     | `http://localhost:3000`                      |
+| Backend API  | `http://localhost:5000`                      |
+| Health Check | `http://localhost:5000/api/health` |
 
 ---
 
